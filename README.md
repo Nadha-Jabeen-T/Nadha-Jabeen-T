@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nadha-Jabeen-T
-- 👀 I’m interested in Mobile application development and Machine learning.
+- 👀 I’m interested in Mobile application development and AI/ML.
 - 🌱 I’m currently learning flutter.
-- 💞️ I’m looking to collaborate on projects related to web apps and python.
-- 📫 You can reach me on linkedin and twitter.
+- 💞️ I’m looking to collaborate on projects related to Deep learning.
+- 📫 You can reach me on LinkedIn and Twitter.
 
 <!---
 Nadha-Jabeen-T/Nadha-Jabeen-T is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
