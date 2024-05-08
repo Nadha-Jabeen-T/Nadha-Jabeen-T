@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nadha-Jabeen-T
-- 👀 I’m interested in Mobile application development and AI/ML.
-- 🌱 I’m currently learning flutter.
+- 👀 I’m a Java developer. 
+- 🌱 I’m an AI/ML enthusiast. I'm also interested in Flutter and React JS projects.
 - 💞️ I’m looking to collaborate on projects related to Deep learning.
 - 📫 You can reach me on LinkedIn and Twitter.
 
